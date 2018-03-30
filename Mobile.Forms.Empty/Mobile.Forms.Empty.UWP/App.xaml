@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Mobile.Forms.Empty.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mobile.Forms.Empty.UWP"
+    RequestedTheme="Light">
+
+</Application>
